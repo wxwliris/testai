@@ -1,0 +1,14 @@
+{
+    "name": "youzu/testai",
+    "description": "测试包",
+    "keywords":["testai测试包"],
+    "type": "library",
+    "authors": [
+        {
+            "name": "王网琴(小网)",
+            "email": "wangwq@yoozoo.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
